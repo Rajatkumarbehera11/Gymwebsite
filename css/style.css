@@ -111,6 +111,9 @@ header .ham-burger{
 	position: relative;
 	z-index: 100;
 }
+.table{
+	height:700px;
+}
 header .ham-burger span{
 	height: 3px;
 	margin-bottom:8px;
